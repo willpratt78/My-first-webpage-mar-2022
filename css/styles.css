@@ -1,11 +1,14 @@
 h1 {
-  color: blue;
+  color: #ff0000;
   text-align: center;
+  font-size: 60px;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 h2 {
   font-style: italic;
   text-align: center;
+  font-size: 35px;
 }
 
 p {
@@ -15,4 +18,9 @@ p {
 ul {
   font-size: 20px;
   line-height: 30px;
+}
+
+h3 {
+  color: #00f;
+  font-weight: 100;
 }
